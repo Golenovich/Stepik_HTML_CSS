@@ -1,5 +1,7 @@
 # Git Command
 
+https://githowto.com/ru/setup
+
 `rm -rf ./.git` - Удаляет git из текущей папки
 
 `git init` - Инициализация репозитория
